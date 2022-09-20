@@ -1,0 +1,1 @@
+"C:\Users\z004j7aw\AppData\Local\Programs\Python\Python310\python.exe" "C:\personal\scripts\file-copier\main.py" sourcePath destinationPath pause
